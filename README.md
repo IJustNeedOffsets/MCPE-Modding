@@ -7,6 +7,7 @@ open sourced program written in c# to modify MCPE. (iOS Only).
 
 ## Problems
 You need to get a Minecraft.ipa somehow
+The patched minecraft ipa is not compressed as it nees to be. to fix extract the Minecraftcpaes.ipa and add a Payload folder..
 
 ## Compiling
 Open in Visual Studios and click build if you don´t want to use the compiled build.
