@@ -1,22 +1,23 @@
 # MCPE-Modding
-open sourced program written in c# to modify MCPE. (iOS Only).
+open sourced program written in c# to modify MCPE. (iOS and Android)
 
 ## features
 -Custom Capes
 -Modify Behaviour (Default MCPE vanilla behaviour pack can be changed)
 
 ## Problems
-You need to get a Minecraft.ipa somehow
+You need to get a Minecraft.ipa or Minecraft.apk somehow
 The patched minecraft ipa is not compressed as it nees to be. to fix extract the Minecraftcpaes.ipa and add a Payload folder..
 
 ## Compiling
-Open in Visual Studios and click build if you don´t want to use the compiled build.
+Open in Visual Studios and click build. You can also download the pre compiled build.
 
-## How to use this?
-Click on the Minecraft Path button and select the Minecraft.ipa, click on the Capes button and select the zip file with the Capes in it.
+## Usinng
+pretty self explaining UI.. Select Minecraft, click on the modification buttons which you want and click rebuild.
 
 ## To do
 Implement a function to sideload this ipa on jailbroken devices.
+Use ADB to install the patchd apk on android devices.
 
 # Credits
 Just me
